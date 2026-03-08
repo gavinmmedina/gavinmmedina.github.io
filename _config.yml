@@ -46,6 +46,8 @@ author:
   scopus           : # URL
   zotero           : # URL
 
+  # CV
+  cv               : "/files/GavinMedinaCV.pdf" # URL or filename of your CV placed in the root directory of the site
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
