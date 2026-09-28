@@ -18,8 +18,7 @@ Job Market Paper
   <li>
     <b>Switching Sides: Choice Structure, Race, and American Support for Foreign Aid</b>
     <br>
-     Draft available upon request.
-
+    [\[PDF\]]({{ '/files/medina_jmp.pdf' | relative_url }})
     <details>
       <summary><i>[Abstract]</i></summary>
       <p>
@@ -35,8 +34,7 @@ Submitted Manuscripts
   <li>
     <b>Race Beyond Borders: White Americans' Racial Perceptions Abroad</b>
     <br>
-    Draft available upon request.
-
+    [\[PDF\]]({{ '/files/medina_rbb.pdf' | relative_url }})
     <details>
       <summary><i>[Abstract]</i></summary>
       <p>
