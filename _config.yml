@@ -47,7 +47,7 @@ author:
   zotero           : # URL
 
   # CV
-  cv               : "/files/gavin_cv_true.pdf" # URL or filename of your CV placed in the root directory of the site
+  cv               : "/files/Medina_CV.pdf" # URL or filename of your CV placed in the root directory of the site
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
