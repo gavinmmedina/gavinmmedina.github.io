@@ -65,7 +65,7 @@ Research in Progress
 ======
 <ul>
   <li>
-    <b>Unbundling Ideology: Race, Economic Principle, and American Support for Foreign Aid</b>
+    <b>Black and White in Blue: Race, Party, and Foreign Policy Opinion</b>
     <br>
   </li>
 </ul>
