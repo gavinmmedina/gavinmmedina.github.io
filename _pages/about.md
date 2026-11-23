@@ -33,6 +33,8 @@ Submitted Manuscripts
   <li>
     <b>Race Beyond Borders: White Americans' Racial Perceptions Abroad</b>
     <br>
+    <i>Revise and resubmit at Political Behavior</i>
+    <<br>
     <details>
       <summary><i>[Abstract]</i> <a href="{{ '/files/medina_rbb.pdf' | relative_url }}" onclick="event.stopPropagation()">[PDF]</a></summary>
       <p>
