@@ -94,7 +94,7 @@ Research in Progress
 
 <ul>
   <li>
-    <b>One Race? Dehomogenizing Latine Voting in the Age of Populism</b>
+    <b>Diversity’s Children: Intra-Ethnic Racial Diversity in Latinos’ Political Preferences</b>
     <br>
     (with Nia Atkins, Tali Mendelberg, and Alisson Ramos)
 
